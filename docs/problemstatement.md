@@ -1,0 +1,48 @@
+# Target Segment: The Forgetful Wishlister
+
+Wishlist users who forget saved items exist — the single largest outcome in the data (44%, bigger than waiting-for-a-deal, buying, window-shopping, and giving up combined). Skews toward women, who are both the platform's heaviest wishlist users (100% usage, n=9) and more likely to let items sit unresolved past 2 months (62%, vs. 48% of men) — meaning the group most engaged with the feature is also the group most affected by its biggest flaw. The same pattern shows up for men too (48% >2 months, 80% usage), so this isn't a niche behavior — it's close to the default once someone actually uses a wishlist. Concentrated in the 22–26 age bracket (68% of respondents).
+
+### Explicitly Excluded
+
+* **Deal-waiters (32%)** — out of scope; Myntra already runs enough sale marketing that this isn't a discovery gap
+* **Window shoppers (8%)** — never intended to buy, deliberate exclusion
+* **Non-buyers (4%)** — not solvable by a product nudge
+
+## Product Outcome
+
+Move the **Revisit** stage of the funnel — not Confidence like the earlier direction.
+
+> Wishlist → Purchase = **Revisit** × Availability × Confidence × Comparison-Win × Checkout
+>
+> This pivot targets the first term, cleanly, without touching the others.
+
+## Root Cause
+
+The wishlist has no re-engagement loop, and its own entry point works against it — the heart icon sits visually flat next to the notification and profile icons, so even users opening the app regularly get no natural prompt to check what's already saved. Items don't get abandoned because interest faded; they get abandoned because nothing ever reminds the user they're there.
+
+### Existing Workarounds
+
+**Genuinely none** — this is a passive failure, not something users actively work around. The closest thing is accidental rediscovery while browsing or searching, which is exactly why 12% still buy and a few more window-shop: pure luck of stumbling back onto it, not a system that helps them.
+
+## Why It Matters
+
+**To the user:** Saves time — no re-searching for something they already found, decided they liked, and saved once already. Removes the small, recurring frustration of realizing later they missed something.
+
+**To the business:** 44% is the largest single addressable pool in the entire dataset — bigger than every other outcome combined except waiting-for-a-deal. It requires zero discounting (fully compliant with the constraint) and is a lower-effort, lower-risk build than AI-driven fit prediction — a reminder system and a more visually salient icon, not a new inference model.
+
+## Evolution Arc
+
+Business Metric (wishlist → purchase, 30 days)
+➔ Product Outcomes (5-stage funnel — Revisit identified as the broken stage, not Confidence)
+➔ AI Discovery (Wishlist Clutter & Re-discovery ranks last in AI-tagged data — because forgetting isn't something people complain about in reviews, only something a direct survey question catches)
+➔ Primary Research (44% forget — the largest single behavior in the survey; concentrated in women and the 22–26 bracket)
+➔ **Problem Definition:** users don't lack purchase intent — they lack a reminder, and the one visual cue the app already has (the heart icon) is too easy to ignore.
+
+## MVP Direction
+
+1. A reminder/re-engagement nudge (push or in-app) that resurfaces aging wishlist items before they're forgotten
+2. A color-shifting or otherwise higher-salience wishlist/heart icon so it doesn't visually blend with the notification and profile icons once the user is already in-app
+
+## Success Metric
+
+Wishlist → purchase conversion rate, measured at 30 days.

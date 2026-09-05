@@ -1,0 +1,1835 @@
+[
+  {
+    "id": "p1",
+    "brand": "U.S. Polo Assn.",
+    "name": "Typography Printed Round Neck T-Shirt",
+    "price": 549,
+    "originalPrice": 999,
+    "rating": 4.1,
+    "reviewCount": 1205,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "category": "T-Shirt",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/292524/fafaf9?text=U.S.+Polo+Assn",
+    "outOfStock": true
+  },
+  {
+    "id": "p2",
+    "brand": "Leotude",
+    "name": "Men Textured Mid-Rise Trousers",
+    "price": 899,
+    "originalPrice": 1499,
+    "rating": 4,
+    "reviewCount": 892,
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "category": "Trousers",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/57534e/fafaf9?text=Leotude+Trousers"
+  },
+  {
+    "id": "p3",
+    "brand": "GYNK",
+    "name": "Black Sports Sunglasses",
+    "price": 602,
+    "originalPrice": 2999,
+    "rating": 4.1,
+    "reviewCount": 432,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Accessories",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/1c1917/fafaf9?text=GYNK+Sunglasses"
+  },
+  {
+    "id": "p6",
+    "brand": "Roadster",
+    "name": "Men Blue Slim Fit Jeans",
+    "price": 799,
+    "originalPrice": 1999,
+    "rating": 4.4,
+    "reviewCount": 5600,
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "category": "Jeans",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/1e3a8a/fafaf9?text=Roadster+Jeans"
+  },
+  {
+    "id": "w1",
+    "brand": "SASSAFRAS",
+    "name": "Women Black Solid Styled Back Top",
+    "price": 499,
+    "originalPrice": 1299,
+    "rating": 4.3,
+    "reviewCount": 8920,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Tops",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/7f1d1d/fafaf9?text=Black+Top"
+  },
+  {
+    "id": "w2",
+    "brand": "Anouk",
+    "name": "Women Red Floral Printed Kurta",
+    "price": 749,
+    "originalPrice": 1999,
+    "rating": 4.5,
+    "reviewCount": 3410,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "category": "Ethnic",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/be123c/fafaf9?text=Floral+Kurta"
+  },
+  {
+    "id": "w3",
+    "brand": "Tokyo Talkies",
+    "name": "Women Blue Wide Leg Jeans",
+    "price": 989,
+    "originalPrice": 2299,
+    "rating": 4.2,
+    "reviewCount": 1150,
+    "sizes": [
+      "26",
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "category": "Jeans",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/0ea5e9/fafaf9?text=Wide+Leg+Jeans"
+  },
+  {
+    "id": "k1",
+    "brand": "H&M",
+    "name": "Boys 3-Pack Graphic Tees",
+    "price": 999,
+    "originalPrice": 1299,
+    "rating": 4.6,
+    "reviewCount": 420,
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "category": "T-Shirt",
+    "gender": "KIDS",
+    "image": "https://placehold.co/400x500/fb923c/fafaf9?text=Kids+Tee+Pack"
+  },
+  {
+    "id": "k2",
+    "brand": "Gini and Jony",
+    "name": "Girls Pink A-Line Dress",
+    "price": 849,
+    "originalPrice": 1499,
+    "rating": 4.4,
+    "reviewCount": 890,
+    "sizes": [
+      "3-4Y",
+      "5-6Y",
+      "7-8Y",
+      "9-10Y"
+    ],
+    "category": "Dress",
+    "gender": "KIDS",
+    "image": "https://placehold.co/400x500/f472b6/fafaf9?text=Pink+Dress"
+  },
+  {
+    "id": "p8",
+    "brand": "Puma",
+    "name": "Unisex Black Sneakers",
+    "price": 2499,
+    "originalPrice": 4999,
+    "rating": 4.5,
+    "reviewCount": 3100,
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "category": "Footwear",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/000000/fafaf9?text=Puma+Sneakers"
+  },
+  {
+    "id": "fwd-1",
+    "brand": "THE FWD LABEL",
+    "name": "Unisex Oversized Graphic Tee",
+    "price": 899,
+    "originalPrice": 1499,
+    "rating": 4.7,
+    "reviewCount": 892,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "FWD",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/ec4899/ffffff?text=Oversized+Tee",
+    "outOfStock": true
+  },
+  {
+    "id": "fwd-2",
+    "brand": "Y2K DROP",
+    "name": "Women Cargo Parachute Pants",
+    "price": 1299,
+    "originalPrice": 2499,
+    "rating": 4.6,
+    "reviewCount": 1102,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "category": "FWD",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/10b981/ffffff?text=Y2K+Cargos"
+  },
+  {
+    "id": "fwd-3",
+    "brand": "STREET VIBE",
+    "name": "Chunky Platform Sneakers",
+    "price": 1999,
+    "originalPrice": 3599,
+    "rating": 4.5,
+    "reviewCount": 430,
+    "sizes": [
+      "36",
+      "38",
+      "40"
+    ],
+    "category": "FWD",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/6366f1/ffffff?text=Platform+Kicks"
+  },
+  {
+    "id": "luxe-1",
+    "brand": "TISSOT",
+    "name": "Men PRX Powermatic 80 Watch",
+    "price": 58500,
+    "originalPrice": 58500,
+    "rating": 4.9,
+    "reviewCount": 150,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "LUXE",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/0f172a/eab308?text=TISSOT+PRX"
+  },
+  {
+    "id": "luxe-2",
+    "brand": "MICHAEL KORS",
+    "name": "Women Jet Set Leather Tote Bag",
+    "price": 28500,
+    "originalPrice": 35000,
+    "rating": 4.7,
+    "reviewCount": 85,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "LUXE",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/78350f/fef3c7?text=MK+Tote"
+  },
+  {
+    "id": "luxe-3",
+    "brand": "TOM FORD",
+    "name": "Ombre Leather Eau De Parfum 100ml",
+    "price": 18500,
+    "originalPrice": 18500,
+    "rating": 4.8,
+    "reviewCount": 210,
+    "sizes": [
+      "100ml"
+    ],
+    "category": "LUXE",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/171717/d4d4d8?text=TOM+FORD+Ombre"
+  },
+  {
+    "id": "p100",
+    "brand": "Roadster",
+    "name": "Grey Solid Jacket",
+    "price": 1135,
+    "originalPrice": 1589,
+    "rating": "4.6",
+    "reviewCount": 860,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Jacket",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/552881/ffffff?text=Roadster"
+  },
+  {
+    "id": "p101",
+    "brand": "Adidas",
+    "name": "Black Solid Sneakers",
+    "price": 2942,
+    "originalPrice": 4530,
+    "rating": "4.2",
+    "reviewCount": 227,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Sneakers",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/440964/ffffff?text=Adidas",
+    "outOfStock": true
+  },
+  {
+    "id": "p102",
+    "brand": "Zara",
+    "name": "Pink Solid Sneakers",
+    "price": 2111,
+    "originalPrice": 2617,
+    "rating": "4.3",
+    "reviewCount": 1063,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Sneakers",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/513435/ffffff?text=Zara"
+  },
+  {
+    "id": "p103",
+    "brand": "Levis",
+    "name": "White Solid Jeans",
+    "price": 2862,
+    "originalPrice": 4064,
+    "rating": "3.4",
+    "reviewCount": 455,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Jeans",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/648960/ffffff?text=Levis"
+  },
+  {
+    "id": "p104",
+    "brand": "Adidas",
+    "name": "White Solid Sneakers",
+    "price": 2000,
+    "originalPrice": 2460,
+    "rating": "4.0",
+    "reviewCount": 810,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Sneakers",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/599151/ffffff?text=Adidas"
+  },
+  {
+    "id": "p105",
+    "brand": "Levis",
+    "name": "White Solid Shirt",
+    "price": 1218,
+    "originalPrice": 1705,
+    "rating": "4.8",
+    "reviewCount": 623,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Shirt",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/800603/ffffff?text=Levis"
+  },
+  {
+    "id": "p106",
+    "brand": "Levis",
+    "name": "Yellow Solid Shirt",
+    "price": 2407,
+    "originalPrice": 3610,
+    "rating": "3.3",
+    "reviewCount": 790,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Shirt",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/229287/ffffff?text=Levis"
+  },
+  {
+    "id": "p107",
+    "brand": "Biba",
+    "name": "Yellow Solid Sneakers",
+    "price": 2773,
+    "originalPrice": 3604,
+    "rating": "3.4",
+    "reviewCount": 972,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Sneakers",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/705500/ffffff?text=Biba"
+  },
+  {
+    "id": "p108",
+    "brand": "Roadster",
+    "name": "Green Solid T-Shirt",
+    "price": 1857,
+    "originalPrice": 2246,
+    "rating": "4.2",
+    "reviewCount": 1397,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "T-Shirt",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/823210/ffffff?text=Roadster"
+  },
+  {
+    "id": "p109",
+    "brand": "Biba",
+    "name": "Yellow Solid Sneakers",
+    "price": 740,
+    "originalPrice": 1139,
+    "rating": "4.5",
+    "reviewCount": 97,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Sneakers",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/865929/ffffff?text=Biba"
+  },
+  {
+    "id": "p110",
+    "brand": "Biba",
+    "name": "Black Solid Shirt",
+    "price": 2267,
+    "originalPrice": 2901,
+    "rating": "3.3",
+    "reviewCount": 760,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Shirt",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/399408/ffffff?text=Biba"
+  },
+  {
+    "id": "p111",
+    "brand": "Nike",
+    "name": "Green Solid Shirt",
+    "price": 2600,
+    "originalPrice": 3587,
+    "rating": "3.6",
+    "reviewCount": 129,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Shirt",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/156653/ffffff?text=Nike",
+    "outOfStock": true
+  },
+  {
+    "id": "p112",
+    "brand": "Adidas",
+    "name": "Pink Solid Jacket",
+    "price": 805,
+    "originalPrice": 1127,
+    "rating": "4.5",
+    "reviewCount": 1606,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Jacket",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/149289/ffffff?text=Adidas"
+  },
+  {
+    "id": "p113",
+    "brand": "Adidas",
+    "name": "Red Solid Jeans",
+    "price": 2797,
+    "originalPrice": 3775,
+    "rating": "4.2",
+    "reviewCount": 447,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Jeans",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/846586/ffffff?text=Adidas"
+  },
+  {
+    "id": "p114",
+    "brand": "FabIndia",
+    "name": "Red Solid Jacket",
+    "price": 698,
+    "originalPrice": 1116,
+    "rating": "4.2",
+    "reviewCount": 358,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Jacket",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/324490/ffffff?text=FabIndia"
+  },
+  {
+    "id": "p115",
+    "brand": "FabIndia",
+    "name": "White Solid Jeans",
+    "price": 2576,
+    "originalPrice": 3632,
+    "rating": "3.9",
+    "reviewCount": 1541,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Jeans",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/740255/ffffff?text=FabIndia"
+  },
+  {
+    "id": "p116",
+    "brand": "H&M",
+    "name": "Yellow Solid Jacket",
+    "price": 2039,
+    "originalPrice": 2976,
+    "rating": "3.1",
+    "reviewCount": 1989,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Jacket",
+    "gender": "MEN",
+    "image": "https://placehold.co/400x500/907575/ffffff?text=H&M"
+  },
+  {
+    "id": "p117",
+    "brand": "Biba",
+    "name": "Red Solid Kurta",
+    "price": 1563,
+    "originalPrice": 2110,
+    "rating": "3.8",
+    "reviewCount": 405,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Kurta",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/874964/ffffff?text=Biba"
+  },
+  {
+    "id": "p118",
+    "brand": "Nike",
+    "name": "Green Solid Heels",
+    "price": 1209,
+    "originalPrice": 1632,
+    "rating": "3.7",
+    "reviewCount": 1819,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Heels",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/356201/ffffff?text=Nike"
+  },
+  {
+    "id": "p119",
+    "brand": "Zara",
+    "name": "Pink Solid Jeans",
+    "price": 1061,
+    "originalPrice": 1517,
+    "rating": "3.8",
+    "reviewCount": 1593,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Jeans",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/327089/ffffff?text=Zara"
+  },
+  {
+    "id": "p120",
+    "brand": "Biba",
+    "name": "Blue Solid Kurta",
+    "price": 2731,
+    "originalPrice": 3905,
+    "rating": "4.8",
+    "reviewCount": 275,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Kurta",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/395251/ffffff?text=Biba"
+  },
+  {
+    "id": "p121",
+    "brand": "Roadster",
+    "name": "Red Solid Jeans",
+    "price": 1517,
+    "originalPrice": 1911,
+    "rating": "4.1",
+    "reviewCount": 1905,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Jeans",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/313138/ffffff?text=Roadster",
+    "outOfStock": true
+  },
+  {
+    "id": "p122",
+    "brand": "Biba",
+    "name": "Red Solid Dress",
+    "price": 1367,
+    "originalPrice": 2105,
+    "rating": "3.2",
+    "reviewCount": 1933,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Dress",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/968483/ffffff?text=Biba"
+  },
+  {
+    "id": "p123",
+    "brand": "FabIndia",
+    "name": "White Solid Jeans",
+    "price": 1596,
+    "originalPrice": 2505,
+    "rating": "3.1",
+    "reviewCount": 704,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Jeans",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/984445/ffffff?text=FabIndia"
+  },
+  {
+    "id": "p124",
+    "brand": "FabIndia",
+    "name": "Green Solid Top",
+    "price": 1223,
+    "originalPrice": 1577,
+    "rating": "3.7",
+    "reviewCount": 1727,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Top",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/709881/ffffff?text=FabIndia"
+  },
+  {
+    "id": "p125",
+    "brand": "Levis",
+    "name": "Yellow Solid Kurta",
+    "price": 831,
+    "originalPrice": 1080,
+    "rating": "3.3",
+    "reviewCount": 1837,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Kurta",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/332356/ffffff?text=Levis"
+  },
+  {
+    "id": "p126",
+    "brand": "Roadster",
+    "name": "White Solid Dress",
+    "price": 1670,
+    "originalPrice": 2454,
+    "rating": "3.5",
+    "reviewCount": 1927,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Dress",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/871807/ffffff?text=Roadster"
+  },
+  {
+    "id": "p127",
+    "brand": "Roadster",
+    "name": "Yellow Solid Heels",
+    "price": 664,
+    "originalPrice": 1055,
+    "rating": "4.0",
+    "reviewCount": 1360,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Heels",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/259999/ffffff?text=Roadster"
+  },
+  {
+    "id": "p128",
+    "brand": "Adidas",
+    "name": "Blue Solid Dress",
+    "price": 1095,
+    "originalPrice": 1423,
+    "rating": "4.6",
+    "reviewCount": 1348,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Dress",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/183882/ffffff?text=Adidas"
+  },
+  {
+    "id": "p129",
+    "brand": "Zara",
+    "name": "Yellow Solid Jeans",
+    "price": 1883,
+    "originalPrice": 2975,
+    "rating": "3.5",
+    "reviewCount": 1959,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Jeans",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/983556/ffffff?text=Zara"
+  },
+  {
+    "id": "p130",
+    "brand": "Puma",
+    "name": "Green Solid Kurta",
+    "price": 740,
+    "originalPrice": 888,
+    "rating": "3.7",
+    "reviewCount": 883,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Kurta",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/772975/ffffff?text=Puma"
+  },
+  {
+    "id": "p131",
+    "brand": "Biba",
+    "name": "Green Solid Top",
+    "price": 1116,
+    "originalPrice": 1473,
+    "rating": "4.1",
+    "reviewCount": 1980,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Top",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/344263/ffffff?text=Biba",
+    "outOfStock": true
+  },
+  {
+    "id": "p132",
+    "brand": "Nike",
+    "name": "Grey Solid Jeans",
+    "price": 2151,
+    "originalPrice": 3312,
+    "rating": "4.3",
+    "reviewCount": 1182,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Jeans",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/337628/ffffff?text=Nike"
+  },
+  {
+    "id": "p133",
+    "brand": "FabIndia",
+    "name": "White Solid Jeans",
+    "price": 1392,
+    "originalPrice": 2101,
+    "rating": "4.5",
+    "reviewCount": 1075,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Jeans",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/745134/ffffff?text=FabIndia"
+  },
+  {
+    "id": "p134",
+    "brand": "Levis",
+    "name": "Grey Solid Shoes",
+    "price": 1072,
+    "originalPrice": 1554,
+    "rating": "4.9",
+    "reviewCount": 1456,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Shoes",
+    "gender": "KIDS",
+    "image": "https://placehold.co/400x500/106603/ffffff?text=Levis"
+  },
+  {
+    "id": "p135",
+    "brand": "Levis",
+    "name": "Grey Solid Shoes",
+    "price": 2678,
+    "originalPrice": 4204,
+    "rating": "4.0",
+    "reviewCount": 759,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Shoes",
+    "gender": "KIDS",
+    "image": "https://placehold.co/400x500/198468/ffffff?text=Levis"
+  },
+  {
+    "id": "p136",
+    "brand": "Biba",
+    "name": "Green Solid Shoes",
+    "price": 971,
+    "originalPrice": 1194,
+    "rating": "3.6",
+    "reviewCount": 1141,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Shoes",
+    "gender": "KIDS",
+    "image": "https://placehold.co/400x500/624851/ffffff?text=Biba"
+  },
+  {
+    "id": "p137",
+    "brand": "Roadster",
+    "name": "Pink Solid Dress",
+    "price": 2794,
+    "originalPrice": 3604,
+    "rating": "4.7",
+    "reviewCount": 1366,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Dress",
+    "gender": "KIDS",
+    "image": "https://placehold.co/400x500/223705/ffffff?text=Roadster"
+  },
+  {
+    "id": "p138",
+    "brand": "FabIndia",
+    "name": "Black Solid T-Shirt",
+    "price": 2989,
+    "originalPrice": 4094,
+    "rating": "4.1",
+    "reviewCount": 1949,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "T-Shirt",
+    "gender": "KIDS",
+    "image": "https://placehold.co/400x500/927784/ffffff?text=FabIndia"
+  },
+  {
+    "id": "p139",
+    "brand": "Puma",
+    "name": "Pink Solid Dress",
+    "price": 2613,
+    "originalPrice": 3997,
+    "rating": "4.5",
+    "reviewCount": 1176,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Dress",
+    "gender": "KIDS",
+    "image": "https://placehold.co/400x500/208210/ffffff?text=Puma"
+  },
+  {
+    "id": "p140",
+    "brand": "Puma",
+    "name": "Green Solid Shorts",
+    "price": 2065,
+    "originalPrice": 2622,
+    "rating": "4.2",
+    "reviewCount": 152,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Shorts",
+    "gender": "KIDS",
+    "image": "https://placehold.co/400x500/931945/ffffff?text=Puma"
+  },
+  {
+    "id": "p141",
+    "brand": "Roadster",
+    "name": "White Solid Shorts",
+    "price": 2503,
+    "originalPrice": 3704,
+    "rating": "3.4",
+    "reviewCount": 815,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Shorts",
+    "gender": "KIDS",
+    "image": "https://placehold.co/400x500/762218/ffffff?text=Roadster",
+    "outOfStock": true
+  },
+  {
+    "id": "p142",
+    "brand": "Roadster",
+    "name": "Yellow Solid T-Shirt",
+    "price": 1784,
+    "originalPrice": 2533,
+    "rating": "4.8",
+    "reviewCount": 1688,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "T-Shirt",
+    "gender": "KIDS",
+    "image": "https://placehold.co/400x500/598614/ffffff?text=Roadster"
+  },
+  {
+    "id": "p143",
+    "brand": "W",
+    "name": "Grey Solid Shorts",
+    "price": 2234,
+    "originalPrice": 3418,
+    "rating": "4.2",
+    "reviewCount": 210,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Shorts",
+    "gender": "KIDS",
+    "image": "https://placehold.co/400x500/978848/ffffff?text=W"
+  },
+  {
+    "id": "p144",
+    "brand": "H&M",
+    "name": "White Solid Shorts",
+    "price": 1281,
+    "originalPrice": 1883,
+    "rating": "3.6",
+    "reviewCount": 1450,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Shorts",
+    "gender": "KIDS",
+    "image": "https://placehold.co/400x500/600462/ffffff?text=H&M"
+  },
+  {
+    "id": "p145",
+    "brand": "Zara",
+    "name": "Yellow Solid T-Shirt",
+    "price": 611,
+    "originalPrice": 806,
+    "rating": "4.2",
+    "reviewCount": 774,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "T-Shirt",
+    "gender": "KIDS",
+    "image": "https://placehold.co/400x500/498740/ffffff?text=Zara"
+  },
+  {
+    "id": "p146",
+    "brand": "Biba",
+    "name": "Green Solid Shorts",
+    "price": 1129,
+    "originalPrice": 1490,
+    "rating": "4.9",
+    "reviewCount": 79,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Shorts",
+    "gender": "KIDS",
+    "image": "https://placehold.co/400x500/864826/ffffff?text=Biba"
+  },
+  {
+    "id": "p147",
+    "brand": "FabIndia",
+    "name": "Grey Solid Jacket",
+    "price": 1871,
+    "originalPrice": 2769,
+    "rating": "4.0",
+    "reviewCount": 664,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Jacket",
+    "gender": "KIDS",
+    "image": "https://placehold.co/400x500/851643/ffffff?text=FabIndia"
+  },
+  {
+    "id": "p148",
+    "brand": "Nike",
+    "name": "Black Solid Shoes",
+    "price": 1288,
+    "originalPrice": 1906,
+    "rating": "3.3",
+    "reviewCount": 1044,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "Shoes",
+    "gender": "KIDS",
+    "image": "https://placehold.co/400x500/535157/ffffff?text=Nike"
+  },
+  {
+    "id": "p149",
+    "brand": "Zara",
+    "name": "Grey Solid T-Shirt",
+    "price": 1862,
+    "originalPrice": 2364,
+    "rating": "3.4",
+    "reviewCount": 652,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "T-Shirt",
+    "gender": "KIDS",
+    "image": "https://placehold.co/400x500/402166/ffffff?text=Zara"
+  },
+  {
+    "id": "p150",
+    "brand": "Zara",
+    "name": "Red Solid T-Shirt",
+    "price": 1946,
+    "originalPrice": 2802,
+    "rating": "3.3",
+    "reviewCount": 380,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "category": "T-Shirt",
+    "gender": "KIDS",
+    "image": "https://placehold.co/400x500/148331/ffffff?text=Zara"
+  },
+  {
+    "id": "p200",
+    "brand": "Lakme",
+    "name": "Lakme Lipstick",
+    "price": 2210,
+    "originalPrice": 2895,
+    "rating": "3.3",
+    "reviewCount": 258,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Lipstick",
+    "superCategory": "Beauty",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/708300/ffffff?text=Lakme+Lipstick",
+    "outOfStock": true
+  },
+  {
+    "id": "p201",
+    "brand": "Lakme",
+    "name": "Lakme Eyeliner",
+    "price": 2575,
+    "originalPrice": 3399,
+    "rating": "3.9",
+    "reviewCount": 307,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Eyeliner",
+    "superCategory": "Beauty",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/259738/ffffff?text=Lakme+Eyeliner"
+  },
+  {
+    "id": "p202",
+    "brand": "Lakme",
+    "name": "Lakme Mascara",
+    "price": 3592,
+    "originalPrice": 4992,
+    "rating": "3.1",
+    "reviewCount": 494,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Mascara",
+    "superCategory": "Beauty",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/841207/ffffff?text=Lakme+Mascara"
+  },
+  {
+    "id": "p203",
+    "brand": "MAC",
+    "name": "MAC Foundation",
+    "price": 363,
+    "originalPrice": 450,
+    "rating": "4.4",
+    "reviewCount": 340,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Foundation",
+    "superCategory": "Beauty",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/767387/ffffff?text=MAC+Foundation"
+  },
+  {
+    "id": "p204",
+    "brand": "Maybelline",
+    "name": "Maybelline Lipstick",
+    "price": 2418,
+    "originalPrice": 3046,
+    "rating": "4.0",
+    "reviewCount": 246,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Lipstick",
+    "superCategory": "Beauty",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/803614/ffffff?text=Maybelline+Lipstick"
+  },
+  {
+    "id": "p205",
+    "brand": "Loreal",
+    "name": "Loreal Foundation",
+    "price": 2878,
+    "originalPrice": 3712,
+    "rating": "3.4",
+    "reviewCount": 190,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Foundation",
+    "superCategory": "Beauty",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/770069/ffffff?text=Loreal+Foundation"
+  },
+  {
+    "id": "p206",
+    "brand": "Maybelline",
+    "name": "Maybelline Lipstick",
+    "price": 308,
+    "originalPrice": 446,
+    "rating": "4.9",
+    "reviewCount": 472,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Lipstick",
+    "superCategory": "Beauty",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/847980/ffffff?text=Maybelline+Lipstick"
+  },
+  {
+    "id": "p207",
+    "brand": "Lakme",
+    "name": "Lakme Mascara",
+    "price": 516,
+    "originalPrice": 567,
+    "rating": "4.2",
+    "reviewCount": 293,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Mascara",
+    "superCategory": "Beauty",
+    "gender": "WOMEN",
+    "image": "https://placehold.co/400x500/615925/ffffff?text=Lakme+Mascara"
+  },
+  {
+    "id": "p208",
+    "brand": "Home Centre",
+    "name": "Home Centre Vase",
+    "price": 4144,
+    "originalPrice": 6050,
+    "rating": "3.3",
+    "reviewCount": 415,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Vase",
+    "superCategory": "Homeliving",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/133777/ffffff?text=Home Centre+Vase"
+  },
+  {
+    "id": "p209",
+    "brand": "Home Centre",
+    "name": "Home Centre Curtain",
+    "price": 4162,
+    "originalPrice": 5535,
+    "rating": "3.5",
+    "reviewCount": 368,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Curtain",
+    "superCategory": "Homeliving",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/869439/ffffff?text=Home Centre+Curtain"
+  },
+  {
+    "id": "p210",
+    "brand": "IKEA",
+    "name": "IKEA Vase",
+    "price": 483,
+    "originalPrice": 569,
+    "rating": "4.9",
+    "reviewCount": 97,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Vase",
+    "superCategory": "Homeliving",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/482528/ffffff?text=IKEA+Vase",
+    "outOfStock": true
+  },
+  {
+    "id": "p211",
+    "brand": "IKEA",
+    "name": "IKEA Bed Sheet",
+    "price": 2783,
+    "originalPrice": 3395,
+    "rating": "3.5",
+    "reviewCount": 397,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Bed Sheet",
+    "superCategory": "Homeliving",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/292218/ffffff?text=IKEA+Bed Sheet"
+  },
+  {
+    "id": "p212",
+    "brand": "Bombay Dyeing",
+    "name": "Bombay Dyeing Cushion Cover",
+    "price": 4745,
+    "originalPrice": 5836,
+    "rating": "4.2",
+    "reviewCount": 148,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Cushion Cover",
+    "superCategory": "Homeliving",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/481633/ffffff?text=Bombay Dyeing+Cushion Cover"
+  },
+  {
+    "id": "p213",
+    "brand": "Bombay Dyeing",
+    "name": "Bombay Dyeing Bed Sheet",
+    "price": 4421,
+    "originalPrice": 5128,
+    "rating": "4.6",
+    "reviewCount": 269,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Bed Sheet",
+    "superCategory": "Homeliving",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/654750/ffffff?text=Bombay Dyeing+Bed Sheet"
+  },
+  {
+    "id": "p214",
+    "brand": "IKEA",
+    "name": "IKEA Bed Sheet",
+    "price": 4923,
+    "originalPrice": 6547,
+    "rating": "3.3",
+    "reviewCount": 54,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Bed Sheet",
+    "superCategory": "Homeliving",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/136258/ffffff?text=IKEA+Bed Sheet"
+  },
+  {
+    "id": "p215",
+    "brand": "IKEA",
+    "name": "IKEA Cushion Cover",
+    "price": 814,
+    "originalPrice": 1139,
+    "rating": "3.9",
+    "reviewCount": 117,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Cushion Cover",
+    "superCategory": "Homeliving",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/831363/ffffff?text=IKEA+Cushion Cover"
+  },
+  {
+    "id": "p216",
+    "brand": "Nike",
+    "name": "Nike Sneakers",
+    "price": 566,
+    "originalPrice": 645,
+    "rating": "4.7",
+    "reviewCount": 328,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Sneakers",
+    "superCategory": "Footwear",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/255967/ffffff?text=Nike+Sneakers"
+  },
+  {
+    "id": "p217",
+    "brand": "Nike",
+    "name": "Nike Sneakers",
+    "price": 4119,
+    "originalPrice": 5272,
+    "rating": "3.9",
+    "reviewCount": 193,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Sneakers",
+    "superCategory": "Footwear",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/956493/ffffff?text=Nike+Sneakers"
+  },
+  {
+    "id": "p218",
+    "brand": "Puma",
+    "name": "Puma Sneakers",
+    "price": 2677,
+    "originalPrice": 3533,
+    "rating": "3.8",
+    "reviewCount": 228,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Sneakers",
+    "superCategory": "Footwear",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/818168/ffffff?text=Puma+Sneakers"
+  },
+  {
+    "id": "p219",
+    "brand": "Woodland",
+    "name": "Woodland Slippers",
+    "price": 1088,
+    "originalPrice": 1534,
+    "rating": "4.7",
+    "reviewCount": 67,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Slippers",
+    "superCategory": "Footwear",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/388220/ffffff?text=Woodland+Slippers"
+  },
+  {
+    "id": "p220",
+    "brand": "Nike",
+    "name": "Nike Slippers",
+    "price": 3832,
+    "originalPrice": 5364,
+    "rating": "4.6",
+    "reviewCount": 482,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Slippers",
+    "superCategory": "Footwear",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/569687/ffffff?text=Nike+Slippers",
+    "outOfStock": true
+  },
+  {
+    "id": "p221",
+    "brand": "Woodland",
+    "name": "Woodland Sandals",
+    "price": 635,
+    "originalPrice": 742,
+    "rating": "3.2",
+    "reviewCount": 31,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Sandals",
+    "superCategory": "Footwear",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/617058/ffffff?text=Woodland+Sandals"
+  },
+  {
+    "id": "p222",
+    "brand": "Woodland",
+    "name": "Woodland Sandals",
+    "price": 4927,
+    "originalPrice": 5666,
+    "rating": "4.3",
+    "reviewCount": 79,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Sandals",
+    "superCategory": "Footwear",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/984578/ffffff?text=Woodland+Sandals"
+  },
+  {
+    "id": "p223",
+    "brand": "Bata",
+    "name": "Bata Slippers",
+    "price": 1103,
+    "originalPrice": 1323,
+    "rating": "4.0",
+    "reviewCount": 85,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Slippers",
+    "superCategory": "Footwear",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/777151/ffffff?text=Bata+Slippers"
+  },
+  {
+    "id": "p224",
+    "brand": "Fastrack",
+    "name": "Fastrack Belt",
+    "price": 2608,
+    "originalPrice": 2868,
+    "rating": "5.0",
+    "reviewCount": 122,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Belt",
+    "superCategory": "Accessories",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/429624/ffffff?text=Fastrack+Belt"
+  },
+  {
+    "id": "p225",
+    "brand": "Fossil",
+    "name": "Fossil Sunglasses",
+    "price": 2042,
+    "originalPrice": 2777,
+    "rating": "4.6",
+    "reviewCount": 91,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Sunglasses",
+    "superCategory": "Accessories",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/770640/ffffff?text=Fossil+Sunglasses"
+  },
+  {
+    "id": "p226",
+    "brand": "Titan",
+    "name": "Titan Bracelet",
+    "price": 2833,
+    "originalPrice": 3172,
+    "rating": "3.2",
+    "reviewCount": 72,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Bracelet",
+    "superCategory": "Accessories",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/887282/ffffff?text=Titan+Bracelet"
+  },
+  {
+    "id": "p227",
+    "brand": "Fastrack",
+    "name": "Fastrack Sunglasses",
+    "price": 1966,
+    "originalPrice": 2241,
+    "rating": "3.3",
+    "reviewCount": 12,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Sunglasses",
+    "superCategory": "Accessories",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/440017/ffffff?text=Fastrack+Sunglasses"
+  },
+  {
+    "id": "p228",
+    "brand": "Titan",
+    "name": "Titan Bracelet",
+    "price": 2359,
+    "originalPrice": 2689,
+    "rating": "3.0",
+    "reviewCount": 149,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Bracelet",
+    "superCategory": "Accessories",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/191222/ffffff?text=Titan+Bracelet"
+  },
+  {
+    "id": "p229",
+    "brand": "Fastrack",
+    "name": "Fastrack Watch",
+    "price": 4463,
+    "originalPrice": 5132,
+    "rating": "5.0",
+    "reviewCount": 460,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Watch",
+    "superCategory": "Accessories",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/380584/ffffff?text=Fastrack+Watch"
+  },
+  {
+    "id": "p230",
+    "brand": "Fastrack",
+    "name": "Fastrack Watch",
+    "price": 2009,
+    "originalPrice": 2953,
+    "rating": "4.9",
+    "reviewCount": 399,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Watch",
+    "superCategory": "Accessories",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/420256/ffffff?text=Fastrack+Watch",
+    "outOfStock": true
+  },
+  {
+    "id": "p231",
+    "brand": "Fastrack",
+    "name": "Fastrack Belt",
+    "price": 3363,
+    "originalPrice": 4775,
+    "rating": "3.9",
+    "reviewCount": 309,
+    "sizes": [
+      "ONESIZE"
+    ],
+    "category": "Belt",
+    "superCategory": "Accessories",
+    "gender": "UNISEX",
+    "image": "https://placehold.co/400x500/641963/ffffff?text=Fastrack+Belt"
+  },
+  {
+    "id": "mn1",
+    "name": "Hand Sanitizer 500ml",
+    "brand": "Dettol",
+    "price": 250,
+    "originalPrice": 250,
+    "rating": 4.8,
+    "category": "MNOW",
+    "mnowCategory": "Essentials",
+    "image": "https://placehold.co/400x533/e2e8f0/64748b?text=Sanitizer"
+  },
+  {
+    "id": "mn2",
+    "name": "Face Wash",
+    "brand": "Himalaya",
+    "price": 150,
+    "originalPrice": 150,
+    "rating": 4.5,
+    "category": "MNOW",
+    "mnowCategory": "Essentials",
+    "image": "https://placehold.co/400x533/e2e8f0/64748b?text=Face+Wash"
+  },
+  {
+    "id": "mn3",
+    "name": "Lipstick Matte",
+    "brand": "MAC",
+    "price": 1500,
+    "originalPrice": 1500,
+    "rating": 4.9,
+    "category": "MNOW",
+    "mnowCategory": "Beauty",
+    "image": "https://placehold.co/400x533/e2e8f0/64748b?text=Lipstick"
+  },
+  {
+    "id": "mn4",
+    "name": "Eyeliner Pen",
+    "brand": "Maybelline",
+    "price": 350,
+    "originalPrice": 400,
+    "rating": 4.6,
+    "category": "MNOW",
+    "mnowCategory": "Beauty",
+    "image": "https://placehold.co/400x533/e2e8f0/64748b?text=Eyeliner"
+  },
+  {
+    "id": "mn5",
+    "name": "Trimmer Pro",
+    "brand": "Philips",
+    "price": 1200,
+    "originalPrice": 1500,
+    "rating": 4.7,
+    "category": "MNOW",
+    "mnowCategory": "Grooming",
+    "image": "https://placehold.co/400x533/e2e8f0/64748b?text=Trimmer"
+  },
+  {
+    "id": "mn6",
+    "name": "Shaving Foam",
+    "brand": "Gillette",
+    "price": 200,
+    "originalPrice": 220,
+    "rating": 4.4,
+    "category": "MNOW",
+    "mnowCategory": "Grooming",
+    "image": "https://placehold.co/400x533/e2e8f0/64748b?text=Shaving+Foam"
+  },
+  {
+    "id": "mn7",
+    "name": "Silver Hoop Earrings",
+    "brand": "Accessorize",
+    "price": 450,
+    "originalPrice": 600,
+    "rating": 4.3,
+    "category": "MNOW",
+    "mnowCategory": "Accessories",
+    "image": "https://placehold.co/400x533/e2e8f0/64748b?text=Earrings"
+  },
+  {
+    "id": "mn8",
+    "name": "Hair Scrunchies",
+    "brand": "H&M",
+    "price": 199,
+    "originalPrice": 299,
+    "rating": 4.5,
+    "category": "MNOW",
+    "mnowCategory": "Accessories",
+    "image": "https://placehold.co/400x533/e2e8f0/64748b?text=Scrunchies"
+  },
+  {
+    "id": "mn9",
+    "name": "Party Dress Red",
+    "brand": "Zara",
+    "price": 2999,
+    "originalPrice": 3999,
+    "rating": 4.8,
+    "category": "MNOW",
+    "mnowCategory": "Last Minute",
+    "image": "https://placehold.co/400x533/e2e8f0/64748b?text=Party+Dress"
+  },
+  {
+    "id": "mn10",
+    "name": "Gift Wrapping Paper",
+    "brand": "Hallmark",
+    "price": 99,
+    "originalPrice": 99,
+    "rating": 4.1,
+    "category": "MNOW",
+    "mnowCategory": "Last Minute",
+    "image": "https://placehold.co/400x533/e2e8f0/64748b?text=Gift+Wrap"
+  }
+]
