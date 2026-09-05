@@ -52,19 +52,27 @@ class Store {
       wishlist: this.state.wishlist,
       bag: this.state.bag
     };
-    localStorage.setItem(STATE_KEY, JSON.stringify(dataToSave));
+    try {
+      localStorage.setItem(STATE_KEY, JSON.stringify(dataToSave));
+    } catch (e) {
+      console.warn('localStorage not accessible for persist', e);
+    }
   }
 
   hydrate() {
-    const saved = localStorage.getItem(STATE_KEY);
-    if (saved) {
-      try {
-        const parsed = JSON.parse(saved);
-        this.state.wishlist = parsed.wishlist || [];
-        this.state.bag = parsed.bag || [];
-      } catch (e) {
-        console.error("Failed to hydrate store", e);
+    try {
+      const saved = localStorage.getItem(STATE_KEY);
+      if (saved) {
+        try {
+          const parsed = JSON.parse(saved);
+          this.state.wishlist = parsed.wishlist || [];
+          this.state.bag = parsed.bag || [];
+        } catch (e) {
+          console.error("Failed to parse store data", e);
+        }
       }
+    } catch (e) {
+      console.warn('localStorage not accessible for hydrate', e);
     }
   }
 
